@@ -8,7 +8,6 @@ I wanted to avoid using very modern parts (arduinos, FPGA's, CPLD's Raspberry Pi
 
 ![Screenshot](images/IMG_20170513_222104.jpg)
 
-![Screenshot](images/view.jpg)
 
 
 
